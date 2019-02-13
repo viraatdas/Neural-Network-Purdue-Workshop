@@ -1,1 +1,1 @@
-# MNIST-Fashion-Purdue-Workshop
+# Neural Network Purdue Workshop
