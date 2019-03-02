@@ -1,6 +1,14 @@
 # Neural Network Purdue Workshop
 Google Collab used for the Jupyter Notebook. 
 
-Powerpoint attached that was used during the workshop. The branches are organized in a way that at any point if someones gets lost, they can easily get to pace. Enjoy! 
+## How to use
+1) Log on to [Google Colab] (https://colab.research.google.com). 
+2) Select File -> Open Notebook -> GitHub
+3) Enter this URL: https://github.com/viraatdas/Neural-Network-Purdue-Workshop and select the master branch 
+
+The branches are numbered. At any point if you want to skip ahead, you can Open the Notebook and get to the point. 
+
+## Extra Info
+Powerpoint associated with this project: [ppt](https://docs.google.com/presentation/d/1Ao27JRwM8SU6QpsXAr5-lV-Nd8kB120MCEj30wRNgPo/edit#slide=id.p2)
 
 Workshop held on 2/14/19 (Romantic day for a romantic topic *wink*)
