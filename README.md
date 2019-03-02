@@ -9,6 +9,6 @@ Google Collab used for the Jupyter Notebook.
 The branches are numbered. At any point if you want to skip ahead, you can Open the Notebook and get to the point. 
 
 ## Extra Info
-Powerpoint associated with this project: [ppt](https://docs.google.com/presentation/d/1Ao27JRwM8SU6QpsXAr5-lV-Nd8kB120MCEj30wRNgPo/edit#slide=id.p2)
+Powerpoint associated with the project: [ppt](https://docs.google.com/presentation/d/1Ao27JRwM8SU6QpsXAr5-lV-Nd8kB120MCEj30wRNgPo/edit#slide=id.p2)
 
 Workshop held on 2/14/19 (Romantic day for a romantic topic *wink*)
