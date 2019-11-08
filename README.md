@@ -13,5 +13,5 @@ Powerpoint associated with the project: [ppt](https://docs.google.com/presentati
 
 The powerpoint in no way is a comprehensive overview. It is merely a guide for someone to use while presenting. 
 
-Created by Viraat Das
+Created by Viraat Das <br/>
 GitHub: github.com/viraatdas
