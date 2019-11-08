@@ -13,4 +13,5 @@ Powerpoint associated with the project: [ppt](https://docs.google.com/presentati
 
 The powerpoint in no way is a comprehensive overview. It is merely a guide for someone to use while presenting. 
 
-Workshop held on 2/14/19 (Romantic day for a romantic topic *wink*)
+Created by Viraat Das
+GitHub: github.com/viraatdas
